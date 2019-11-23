@@ -1,0 +1,3 @@
+XOOEEEEEEEEEEEEEEEEEEEEEE
+This is also a proper file
+Instead of choosing randomly, the player with sign X may start as O's have greater frequency.
