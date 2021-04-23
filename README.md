@@ -1,5 +1,5 @@
 # School-Projects
-This repository consists of my Computer Engineering projects.
+This repository consists of my Computer Engineering projects at Bogazici University.
 
 CMPE 150 - Introduction to Computer Engineering
 
